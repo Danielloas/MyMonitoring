@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMonitoring", "MyMonitoring\MyMonitoring.csproj", "{DFED2C50-4E26-4FDE-9EC0-DC0AC1E5704E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DEL", "DEL", "{E33A558D-C965-435C-8BF6-C3B4AA9D057E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{088AE7C5-3E00-4890-B836-0EEB9AF78826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMonitoring.Domain", "MyMonitoring.Domain\MyMonitoring.Domain.csproj", "{7C166056-D206-463D-B269-6272B0784D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMonitoring.DEL", "MyMonitoring.DEL\MyMonitoring.DEL.csproj", "{313BFC67-F1F9-405D-8B86-E92808559014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFED2C50-4E26-4FDE-9EC0-DC0AC1E5704E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFED2C50-4E26-4FDE-9EC0-DC0AC1E5704E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFED2C50-4E26-4FDE-9EC0-DC0AC1E5704E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFED2C50-4E26-4FDE-9EC0-DC0AC1E5704E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C166056-D206-463D-B269-6272B0784D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C166056-D206-463D-B269-6272B0784D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C166056-D206-463D-B269-6272B0784D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C166056-D206-463D-B269-6272B0784D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313BFC67-F1F9-405D-8B86-E92808559014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313BFC67-F1F9-405D-8B86-E92808559014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313BFC67-F1F9-405D-8B86-E92808559014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313BFC67-F1F9-405D-8B86-E92808559014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C166056-D206-463D-B269-6272B0784D67} = {088AE7C5-3E00-4890-B836-0EEB9AF78826}
+		{313BFC67-F1F9-405D-8B86-E92808559014} = {E33A558D-C965-435C-8BF6-C3B4AA9D057E}
+	EndGlobalSection
+EndGlobal

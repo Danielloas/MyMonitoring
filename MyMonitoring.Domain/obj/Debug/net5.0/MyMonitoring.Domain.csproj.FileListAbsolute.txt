@@ -1,0 +1,12 @@
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\bin\Debug\net5.0\MyMonitoring.Domain.deps.json
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\bin\Debug\net5.0\MyMonitoring.Domain.dll
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\bin\Debug\net5.0\ref\MyMonitoring.Domain.dll
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\bin\Debug\net5.0\MyMonitoring.Domain.pdb
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.csproj.AssemblyReference.cache
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.AssemblyInfoInputs.cache
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.AssemblyInfo.cs
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.dll
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\ref\MyMonitoring.Domain.dll
+C:\Users\mchan\RiderProjects\MyMonitoring\MyMonitoring.Domain\obj\Debug\net5.0\MyMonitoring.Domain.pdb
