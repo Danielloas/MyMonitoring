@@ -12,6 +12,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using MyMonitoring.DEL;
+using MyMonitoring.DEL.Interfaces;
+using MyMonitoring.Domain.Entity;
 
 namespace MyMonitoring
 {
@@ -32,6 +34,8 @@ namespace MyMonitoring
             var connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<ApplicationDbContext>(options => 
                 options.UseSqlServer(connection));
+            services.AddScoped<ICarRepository, ICarRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
